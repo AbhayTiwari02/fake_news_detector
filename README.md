@@ -1,0 +1,1 @@
+This is a fake news detection system. You can enter a news URL or headline, and it will automatically check authorized news websites, both globally and locally. The system will return whether the news is real or fake, along with the verified sources and a confidence index. To run this, simply generate a GNews API key, insert the key into the code, and you are ready to use it.
